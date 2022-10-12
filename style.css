@@ -1,0 +1,23 @@
+h1{
+  font-size: 60px;
+  color: gray;
+  background-color: tomato;
+}
+p {
+  line-height: 1.5em;
+  word-spacing: 0.3em;
+  background-color: skyblue;
+}
+header {
+	background-color: red;
+}
+footer {
+	background-color: blue;
+}
+main {
+	background-color: pink;
+}
+nav {
+	background-color: yellow;
+}
+
